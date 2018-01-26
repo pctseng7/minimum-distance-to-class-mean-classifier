@@ -1,2 +1,2 @@
-# Minimum-Distance-to-Class-Means-Classi-er
+# Minimum-Distance-to-Class-Means-Classifier
 Pattern Recognition
